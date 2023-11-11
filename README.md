@@ -1,7 +1,7 @@
 # datathon-mibanco2023
 
 Project folder structure
-
+```
 project_name/
 │
 ├── data/
@@ -55,3 +55,4 @@ project_name/
 ├── requirements.txt              # Python package dependencies
 ├── README.md                    # Project documentation and instructions
 └── LICENSE                       # License information for your project
+```
