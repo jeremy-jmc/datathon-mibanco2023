@@ -163,3 +163,4 @@ cython_debug/
 # * CUSTOM
 
 data/*
+catboost_info/
